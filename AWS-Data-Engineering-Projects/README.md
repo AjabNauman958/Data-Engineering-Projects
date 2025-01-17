@@ -1,6 +1,7 @@
 # AWS Projects Portfolio
 
 Welcome to my AWS Projects Portfolio! 🌟
+
 This repository showcases the projects I have developed using AWS services, highlighting my ability to design, implement, and optimize cloud-based solutions for diverse business needs.
 
 ## About Me
@@ -36,7 +37,7 @@ Built a comprehensive ETL pipeline to gather, process, and analyze COVID-19-rela
 
 **Tools & Technologies**: S3, Glue, Redshift
 
-Developed an ETL pipeline to process and analyze sales data from the Adventure Works dataset. The pipeline enabled streamlined reporting and decision-making by loading transformed data into Amazon Redshift.
+Developed an ETL pipeline to process and analyze the Adventure Works dataset sales data. The pipeline enabled streamlined reporting and decision-making by loading transformed data into Amazon Redshift.
 
 ## Contact Me
 
