@@ -5,7 +5,7 @@ This repository showcases my expertise in designing, building, and optimizing sc
 
 ## About Me
 
-I am a Data Engineer with a strong foundation in Python, SQL, and big data technologies. I specialize in crafting efficient ETL workflows, managing cloud-based data solutions, and leveraging data for impactful decision-making. My experience spans across AWS, Azure, and modern data engineering tools.
+I am a Data Engineer with a strong foundation in Python, SQL, and big data technologies. I specialize in crafting efficient ETL workflows, managing cloud-based data solutions, and leveraging data for impactful decision-making. My experience spans AWS, Azure, and modern data engineering tools.
 
 ## Expertise
 
@@ -33,21 +33,31 @@ I am a Data Engineer with a strong foundation in Python, SQL, and big data techn
 
 ### 1. **COVID-19 ETL Pipeline**
 
+**Tools & Technologies**: Python, SQL, AWS Athena, AWS Glue, AWS Redshift
+
 Designed and implemented an ETL pipeline using Python and AWS services to analyze vaccine effectiveness, public sentiment, and market trends.
 
 ### 2. **Cricket World Cup 2019 Analysis**
+
+**Tools & Technologies**: Apache Spark, Databricks, Azure Data Factory, Azure Data Lake
 
 Built a robust ETL pipeline with Azure services, improving data accessibility and enabling comprehensive analysis of Cricket World Cup 2019 data.
 
 ### 3. **F1 Racing Insights Platform**
 
+**Tools & Technologies**: Apache Spark, Databricks, Azure Data Lake
+
 Developed an ETL pipeline leveraging Azure Databricks to process and analyze Formula 1 racing data, delivering actionable insights for strategic decision-making.
 
 ### 4. **Tokyo Olympics Data Analysis**
 
+**Tools & Technologies**: Apache Spark, Databricks, Azure Data Factory, Azure Data Lake
+
 Created a centralized data pipeline using Azure Data Factory and Databricks to integrate data into Azure Data Lake for comprehensive event analysis.
 
 ### 5. **Amazon Data ETL Pipeline**
+
+**Tools & Technologies**: Python, Data Scraping
 
 Developed a Python-based ETL solution to extract and transform data from the Amazon website, structuring it for advanced analysis and reporting.
 
