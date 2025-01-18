@@ -1,6 +1,6 @@
-# Azure Data Engineering Projects Portfolio
+# Azure Data Engineering Portfolio
 
-Welcome to my Azure Data Engineering Projects Portfolio! 🌐
+Welcome to my Azure Data Engineering Portfolio! 🌐
 
 This repository showcases the projects I have developed using Azure services, demonstrating my ability to build scalable and efficient data solutions for diverse use cases.
 
